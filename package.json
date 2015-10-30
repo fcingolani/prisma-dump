@@ -1,0 +1,18 @@
+{
+  "name": "prisma-dump",
+  "version": "1.0.0",
+  "description": "Script para generar un dump del contenido del Archivo Histórico RTA",
+  "main": "dump.coffee",
+  "dependencies": {
+    "async": "^1.5.0",
+    "cheerio": "^0.19.0",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Cingolani",
+  "license": "MIT"
+}
